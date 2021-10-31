@@ -1,0 +1,17 @@
+.add-package form {
+    /* display: flex;
+    flex-direction: column; */
+    /* width: 40%; */
+    /* justify-content: center;
+    
+    align-items: center; */
+    
+}
+
+
+.add-package form input, textarea{
+    /* width: 50%; */
+    margin-bottom: 20px;
+   
+
+}
