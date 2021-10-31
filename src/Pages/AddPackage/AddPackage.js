@@ -2,6 +2,8 @@ import axios from 'axios';
 import React from 'react';
 import { useForm } from "react-hook-form";
 import './AddPackage.css';
+import { HashLink } from 'react-router-hash-link';
+
 
 const AddPackage = () => {
     const { register, handleSubmit, reset } = useForm();
@@ -57,6 +59,11 @@ const AddPackage = () => {
 
                 <input className="btn btn-primary" type="submit" value="Add the package" />
             </form>
+
+            <div className="mt-3 container">
+                <h5> Done adding new package? <HashLink to="/home#servicesid">Click Here to go to Packages</HashLink> </h5>
+            </div>
+
 
 
         </div>

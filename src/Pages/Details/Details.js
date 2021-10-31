@@ -7,6 +7,7 @@ import axios from 'axios';
 
 
 
+
 const Details = () => {
     const { user } = useAuth();
 
@@ -101,6 +102,7 @@ const Details = () => {
 
                         <input className="btn btn-primary btn-lg" type="submit" value="Book this trip package" />
                     </form>
+
 
 
                 </div>
