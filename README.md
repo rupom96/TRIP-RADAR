@@ -6,7 +6,7 @@ Here is the live deployed link of this website: https://tour-assignment-11-240ec
 
 Live API server link: https://grisly-mummy-07425.herokuapp.com
 
-Mongodb API server code link: https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-rupom96
+Mongodb API server code link: https://github.com/rupom96/trip-radar-SERVER
 
 ## Features and Functionality:
 
